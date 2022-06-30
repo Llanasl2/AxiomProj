@@ -21,4 +21,5 @@ int main() {
 		f->Identify();
 
 	}
+	return 0;
 }
